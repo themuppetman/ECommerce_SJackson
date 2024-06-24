@@ -25,6 +25,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ### Database Demo
 
-Because this project is not deployed, a demonstration video is provided - https://youtu.be/GBqO7GubRqQ
+[Because this project is not deployed, a demonstration video is provided](https://youtu.be/GBqO7GubRqQ)
 
 ![Ecommerce Database Demo GIF](Assets/EcommGif.gif)
